@@ -18,9 +18,27 @@
     <ClCompile Include="..\..\..\Users\cyf-desktop-home\Desktop\Leetcode\cpp\511.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="5.17.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="kmp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="maxsuba.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="5.23.cxx">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="524.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\Users\cyf-desktop-home\Desktop\Leetcode\cpp\inc.h">
+    <ClInclude Include="inc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="5.23.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
